@@ -1,0 +1,28 @@
+<configuration plugin="bots">
+
+	<settings name="settings">
+		<!-- Bots Configuration-->
+		<set name="name_bot1">BOT1</set>
+		<set name="caracteristic_bot1">python 3 blue 110</set>
+		<set name="name_bot2">BOT2</set>
+		<set name="caracteristic_bot2">python 3 red 110</set>
+		<set name="name_bot3">BOT3</set>
+		<set name="caracteristic_bot3">python 3 blue 110</set>
+		<set name="name_bot4">BOT4</set>
+		<set name="caracteristic_bot4">python 3 red 110</set>
+		<set name="name_bot5">BOT5</set>
+		<set name="caracteristic_bot5">python 3 blue 110</set>
+		<set name="name_bot6">BOT6</set>
+		<set name="caracteristic_bot6">python 3 red 110</set>
+		<set name="name_bot7">BOT7</set>
+		<set name="caracteristic_bot7">python 3 blue 110</set>
+		<set name="name_bot8">BOT8</set>
+		<set name="caracteristic_bot8">python 3 red 110</set>
+		<!-- Regulation of bots -->
+		<set name="frequency_cycle_in_seconds">15</set>
+		<set name="maximum_bot">8</set>
+		<set name="min_level_kickbots_cmd">60</set>
+		<set name="min_level_regul_cmd">60</set>
+	</settings>
+
+</configuration>
